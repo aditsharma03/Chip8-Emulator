@@ -16,3 +16,8 @@ cd Chip8-Emulator/desktop
 ```
 cargo run /path/to/game
 ```
+#### Alternative:
+if you dont have rust installed, you can use the target debug file:
+```
+./target/debug/desktop /path/to/game
+```
