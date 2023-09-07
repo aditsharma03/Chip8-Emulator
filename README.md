@@ -7,6 +7,8 @@ It uses a structure and functions to implement the Chip-8 processor and the SDL2
 
 ### Usage
 
-`git clone https://github.com/aditsharma03/Chip8-Emulator.git'
-'cd Chip8-Emulator/desktop'
-'cargo run /path/to/game'
+```
+git clone https://github.com/aditsharma03/Chip8-Emulator.git 
+cd Chip8-Emulator/desktop
+cargo run /path/to/game
+```
