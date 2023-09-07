@@ -12,6 +12,7 @@ git clone https://github.com/aditsharma03/Chip8-Emulator.git
 cd Chip8-Emulator/desktop
 ```
 <br>
-``` 
+
+```
 cargo run /path/to/game
 ```
